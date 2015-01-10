@@ -1,0 +1,97 @@
+.header3 h2
+{
+	text-align:center;
+	font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	font-size:40px;
+	color:#000000;
+}
+
+.header3 h3
+{
+	text-align:center;
+	font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	font-size:30px;
+	color:#696969;
+}
+
+.header3 p
+{
+	text-align:center;
+	font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	font-size:20px;
+	color:#696969;
+}
+
+.foote
+{
+    background-color: transparent;
+	/*background:-webkit-linear-gradient(left,#FFFFFF,#989898,#FFFFFF);
+    background: -o-linear-gradient(left,#FFFFFF,#989898,#FFFFFF); /* For Opera 11.1 to 12.0 */
+    /*background: -moz-linear-gradient(left,#FFFFFF,#989898,#FFFFFF); /* For Firefox 3.6 to 15 */
+    /*background: linear-gradient(to left,#FFFFFF,#989898,#FFFFFF);*/
+	height:100px;
+}
+
+.foote h4
+{
+	color:white;
+	font-size:20px;
+	font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	text-align:center;
+}
+
+.foote p
+{
+	color:white;
+	font-size:17px;
+	font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	text-align:center;
+}
+
+.foo p
+{
+	color:#2F4F4F;
+	font-size:14px;
+	font-family: 'Montserrat','Trebuchet MS','sans-serif';
+	font-weight:bold;
+	text-align:center;
+}
+
+.coll
+{
+    background:-webkit-linear-gradient(#000000,#FFFFFF);
+    background: -o-linear-gradient(#000000,#FFFFFF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#000000,#FFFFFF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#000000,#FFFFFF);
+    box-shadow: 5px 0px 5px #FFFFFF
+}
+
+
+.col a
+{
+    color:white;
+    font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+}
+
+.col a:hover
+{
+    color:white;
+    box-shadow: 0px 2px 5px grey;
+}
+
+.navbar-default .navbar-nav>li>a 
+{
+    color: #FFFFFF;
+    font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+}
+
+.navbar-default .navbar-brand 
+{
+    color: #FFFFFF;
+    font-family:'Lota','Montserrat','Trebuchet MS','sans-serif';
+}
