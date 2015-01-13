@@ -1,16 +1,11 @@
-var data = [
-    {
-        id: 1,
-        name: "Sobin",
-        username: "sobingt@gmail.com",
-        password: "abc"
-    },
-    {
-        id: 2,
-        name: "Stanly",
-        username: "stan@gmail.com",
-        password: "xyz"
-    }
-];
+var mongoose=require('mongoose');
+//var bcrypt=require('bcrypt-nodejs');
+//var crypto=require('crypto');
 
-exports.users = data;      // exports.<variable name>
+var userSchema = new mongoose.Schema({
+    id:String,
+    name:String,
+    username:String,
+    password:StringDecoder
+});
+
